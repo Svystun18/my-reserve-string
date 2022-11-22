@@ -1,6 +1,4 @@
 # my-reserve-string
-
-
     
     function reverseArray(arr){
     let newArr = [];
